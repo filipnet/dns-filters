@@ -1,135 +1,135 @@
 # Adguard Home whitelist
 # Google
-@@||0.client-channel.google.com^$important
-@@||2.android.pool.ntp.org^$important
-@@||android.clients.google.com^$important
-@@||clients1.google.com^$important
-@@||clients2.google.com^$important
-@@||clients3.google.com^$important
-@@||clients4.google.com^$important
-@@||clients5.google.com^$important
-@@||clients6.google.com^$important
-@@||cse.google.com^$important
-@@||googleapis.com^$important
-@@||gstatic.com^$important
-@@||manifest.googlevideo.com^$important
-@@||redirector.googlevideo.com^$important
-@@||video-stats.l.google.com^$important
-@@||geo3.ggpht.com^$important
-@@||yt3.ggpht.com^$important
+0.client-channel.google.com
+2.android.pool.ntp.org
+android.clients.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+cse.google.com
+googleapis.com
+gstatic.com
+manifest.googlevideo.com
+redirector.googlevideo.com
+video-stats.l.google.com
+geo3.ggpht.com
+yt3.ggpht.com
 # Youtube
-@@||s.youtube.com^$important
-@@||s2.youtube.com^$important
-@@||youtu.be^$important
-@@||youtube-nocookie.com^$important
-@@||i.ytimg.com^$important
-@@||i1.ytimg.com^$important
-@@||s.ytimg.com^$important
+s.youtube.com
+s2.youtube.com
+youtu.be
+youtube-nocookie.com
+i.ytimg.com
+i1.ytimg.com
+s.ytimg.com
 # Github
-@@||github.com^$important
-@@||github.io^$important
-@@||raw.githubusercontent.com^$important
+github.com
+github.io
+raw.githubusercontent.com
 # Cloudflare
-@@||cdn.cloudflare.net^$important
-@@||cdnjs.cloudflare.com^$important
+cdn.cloudflare.net
+cdnjs.cloudflare.com
 # Dropbox
-@@||dl.dropbox.com^$important
-@@||dl.dropboxusercontent.com^$important
-@@||ns1.dropbox.com^$important
-@@||ns2.dropbox.com^$important
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
 # No-IP.com
-@@||no-ip.com^$important
+no-ip.com
 #Bitly URL Shortener
-@@||j.mp^$important
+j.mp
 # Jquery
-@@||jquery.com^$important
+jquery.com
 # Jsdelivr.net Open Source CDN
-@@||jsdelivr.net^$important
+jsdelivr.net
 # Malwarebytes Anti-Malware
 # Pinterest
-@@||pinterest.com^$important
+pinterest.com
 # Placehold it image soft
-@@||placehold.it^$important
-@@||placeholdit.imgix.net^$important
+placehold.it
+placeholdit.imgix.net
 # Wordpress
-@@||wp.com^$important
-@@||wordpress.com^$important
+wp.com
+wordpress.com
 # Tinyurl Shortener
-@@||tinyurl.com^$important
+tinyurl.com
 # Wikipedia
-@@||wikipedia.org^$important
+wikipedia.org
 # Microsoft
-@@||xbox.ipv6.microsoft.com^$important
-@@||xboxexperiencesprod.experimentation.xboxlive.com^$important
-@@||xflight.xboxlive.com^$important
-@@||xkms.xboxlive.com^$important
-@@||xsts.auth.xboxlive.com^$important
-@@||ui.skype.com^$important
-@@||title.auth.xboxlive.com^$important
-@@||title.mgt.xboxlive.com^$important
-@@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
-@@||t0.ssl.ak.tiles.virtualearth.net^$important
-@@||win10.ipv6.microsoft.com^$important
-@@||sharepoint.com^$important
-@@||pricelist.skype.com^$important
-@@||office.com^$important
-@@||office.net^$important
-@@||office365.com^$important
-@@||officeclient.microsoft.com^$important
-@@||notify.xboxlive.com^$important
-@@||nexusrules.officeapps.live.com^$important
-@@||microsoftonline.com^$important
-@@||licensing.xboxlive.com^$important
-@@||live.com^$important
-@@||msftncsi.com^$important
-@@||i.s-microsoft.com^$important
-@@||help.ui.xboxlive.com^$important
-@@||c.s-microsoft.com^$important
-@@||apps.skype.com^$important
-@@||attestation.xboxlive.com^$important
-@@||cert.mgt.xboxlive.com^$important
-@@||clientconfig.passport.net^$important
-@@||ctldl.windowsupdate.com^$important
-@@||dev.virtualearth.net^$important
-@@||device.auth.xboxlive.com^$important
-@@||ecn.dev.virtualearth.net^$important
-@@||def-vef.xboxlive.com^$important
-@@||eds.xboxlive.com^$important
-@@||geo-prod.do.dsp.mp.microsoft.com^$important
-@@||displaycatalog.mp.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
-@@||1drv.com^$important
-@@||aspnetcdn.com^$important
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
+xsts.auth.xboxlive.com
+ui.skype.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+win10.ipv6.microsoft.com
+sharepoint.com
+pricelist.skype.com
+office.com
+office.net
+office365.com
+officeclient.microsoft.com
+notify.xboxlive.com
+nexusrules.officeapps.live.com
+microsoftonline.com
+licensing.xboxlive.com
+live.com
+msftncsi.com
+i.s-microsoft.com
+help.ui.xboxlive.com
+c.s-microsoft.com
+apps.skype.com
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+clientconfig.passport.net
+ctldl.windowsupdate.com
+dev.virtualearth.net
+device.auth.xboxlive.com
+ecn.dev.virtualearth.net
+def-vef.xboxlive.com
+eds.xboxlive.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+1drv.com
+aspnetcdn.com
 # Apple
-@@||gdmf.apple.com.akadns.net^$important
-@@||apple.com^$important
-@@||itunes.com^$important
-@@||mzstatic.com^$important
-@@||iphone-ld.origin-apple.com.akadns.net^$important
-@@||ax.phobos.apple.com.edgesuite.net^$important
-@@||init-p01md-lb.push-apple.com.akadns.net^$important
-@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
-@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
-@@||iadsdk.apple.com.akadns.net^$important
-@@||play.itunes.apple.com.edgesuite.net^$important
+gdmf.apple.com.akadns.net
+apple.com
+itunes.com
+mzstatic.com
+iphone-ld.origin-apple.com.akadns.net
+ax.phobos.apple.com.edgesuite.net
+init-p01md-lb.push-apple.com.akadns.net
+uts-api-cdn.itunes-apple.com.akadns.net
+np-edge-cdn.itunes-apple.com.akadns.net
+iadsdk.apple.com.akadns.net
+play.itunes.apple.com.edgesuite.net
 # Lets Encrypt
-@@||letsencrypt.org^$important
+letsencrypt.org
 # Spiegel.de
-@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
-@@||spiegel.de^$important
+sni.cdn.www.spiegel.de.c.footprint.net
+spiegel.de
 # ARD German Television
-@@||image.ard.de^$important
-@@||image-ard-de-cddc.at-o.net^$important
-@@||daserste.de^$important
+image.ard.de
+image-ard-de-cddc.at-o.net
+daserste.de
 # German Corona Apps Very Special lol
-@@||corona-datenspende.de^$important
-@@||datenspende.und-gesund.de^$important
+corona-datenspende.de
+datenspende.und-gesund.de
 # Firefox Browser
-@@||detectportal.firefox.com^$important
+detectportal.firefox.com
 # German Corona Warn App
-@@||svc90.main.px.t-online.de^$important
+svc90.main.px.t-online.de
 # Reddit
-@@||reddit.com^$important
+reddit.com
 # WhatsApp
-@@||whatsapp.net^$important
-@@||whatsapp.com^$important
+whatsapp.net
+whatsapp.com
