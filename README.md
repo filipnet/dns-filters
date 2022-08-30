@@ -1,2 +1,2 @@
-# dns-filter
-Ad filter for use with PiHole or AdGuard
+# dns-filters
+Ad filters for use with PiHole or AdGuard
