@@ -1,4 +1,5 @@
-# Adguard Home whitelist
+# Default whitelist
+
 # Google
 0.client-channel.google.com
 2.android.pool.ntp.org
@@ -17,6 +18,7 @@ redirector.googlevideo.com
 video-stats.l.google.com
 geo3.ggpht.com
 yt3.ggpht.com
+
 # Youtube
 s.youtube.com
 s2.youtube.com
@@ -25,39 +27,46 @@ youtube-nocookie.com
 i.ytimg.com
 i1.ytimg.com
 s.ytimg.com
+
 # Github
 github.com
 github.io
 raw.githubusercontent.com
+
 # Cloudflare
 cdn.cloudflare.net
 cdnjs.cloudflare.com
+
 # Dropbox
 dl.dropbox.com
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
+
 # No-IP.com
 no-ip.com
 #Bitly URL Shortener
 j.mp
+
 # Jquery
 jquery.com
+
 # Jsdelivr.net Open Source CDN
 jsdelivr.net
-# Malwarebytes Anti-Malware
+
 # Pinterest
 pinterest.com
-# Placehold it image soft
-placehold.it
-placeholdit.imgix.net
+
 # Wordpress
 wp.com
 wordpress.com
+
 # Tinyurl Shortener
 tinyurl.com
+
 # Wikipedia
 wikipedia.org
+
 # Microsoft
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -100,6 +109,7 @@ displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 1drv.com
 aspnetcdn.com
+
 # Apple
 gdmf.apple.com.akadns.net
 apple.com
@@ -112,24 +122,30 @@ uts-api-cdn.itunes-apple.com.akadns.net
 np-edge-cdn.itunes-apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 play.itunes.apple.com.edgesuite.net
+
 # Lets Encrypt
 letsencrypt.org
+
 # Spiegel.de
 sni.cdn.www.spiegel.de.c.footprint.net
 spiegel.de
+
 # ARD German Television
 image.ard.de
 image-ard-de-cddc.at-o.net
 daserste.de
-# German Corona Apps Very Special lol
+
+# German Corona Apps
 corona-datenspende.de
 datenspende.und-gesund.de
+svc90.main.px.t-online.de
+
 # Firefox Browser
 detectportal.firefox.com
-# German Corona Warn App
-svc90.main.px.t-online.de
+
 # Reddit
 reddit.com
+
 # WhatsApp
 whatsapp.net
 whatsapp.com
