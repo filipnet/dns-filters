@@ -1,4 +1,4 @@
-^adim(age|g)s?[0-9]*[_.-]
+7^adim(age|g)s?[0-9]*[_.-]
 ^adtrack(er|ing)?[0-9]*[-.]
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^advert(s|is(ing|ements?))?[0-9]*[-_.]
@@ -24,3 +24,6 @@
 (\.|^)googletagmanager\.com$
 (\.|^)safeframe\.googlesyndication\.com$
 (\.|^)google-analytics\.com$
+
+^r[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
+^rr[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
