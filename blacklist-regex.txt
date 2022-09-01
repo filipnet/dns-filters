@@ -25,5 +25,6 @@
 (\.|^)safeframe\.googlesyndication\.com$
 (\.|^)google-analytics\.com$
 
+# YOUTUBE
 ^r[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
 ^rr[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
