@@ -147,3 +147,6 @@ reddit.com
 # WHATSAPP
 whatsapp.net
 whatsapp.com
+
+# HEISE.DE (GERMANY)
+heise.de
