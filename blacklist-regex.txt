@@ -1,7 +1,9 @@
-7^adim(age|g)s?[0-9]*[_.-]
-^adtrack(er|ing)?[0-9]*[-.]
-^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
-^advert(s|is(ing|ements?))?[0-9]*[-_.]
+# ADVERTISEMENT, TRACKER, STATISTICS
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?ad[sxv]?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
 ^aff(iliat(es?|ion))?[_.-]
 ^analytics?[_.-]
 ^banners?[_.-]
@@ -14,10 +16,13 @@
 ^pixels?[-.
 ^stat(s|istics)?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
-^track(ers?|ing)?[0-9]*[-.]
-^track(ing)?[0-9]*[_.-]
-(^|.)telemetry[-.]
+^track(ers?|ing)?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
 ^(www[0-9]*\.)?xn--]
+
+# COUNTRY BLOCKING  
+# ru = Russia cn = China hk = Hong Kong
+(^|\.)(cn|ru|hk)$
 
 # GOOGLE
 (\.|^)googlesyndication\.com$
