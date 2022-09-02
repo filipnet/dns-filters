@@ -1,0 +1,12 @@
+# HIKAM SECURITY CAMS 
+# Free tools or API for IP address geolocation lookup which enable you to track the visitor&#039;s location & IP information in real-time
+ipinfodb.com
+
+# LG SMARTTV
+de.ibs.lgappstv.com
+de.info.lgsmartad.com
+de.lgtvsdp.com
+de.rdx2.lgtvsdp.com
+lgtvonline.lge.com
+# Traffic Analysis Service
+srv.giraffic.com
