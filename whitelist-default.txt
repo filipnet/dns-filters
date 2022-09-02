@@ -1,6 +1,10 @@
-# Default whitelist
+# TELEKOM GERMANY
+tel.t-online.de
+_sip._tcp.tel.t-online.de
+_sip._udp.tel.t-online.de
+edns.t-ipnet.de
 
-# Google
+# GOOGLE
 0.client-channel.google.com
 2.android.pool.ntp.org
 android.clients.google.com
@@ -19,7 +23,7 @@ video-stats.l.google.com
 geo3.ggpht.com
 yt3.ggpht.com
 
-# Youtube
+# YOUTUBE
 s.youtube.com
 s2.youtube.com
 youtu.be
@@ -28,46 +32,40 @@ i.ytimg.com
 i1.ytimg.com
 s.ytimg.com
 
-# Github
+# GITHUB
 github.com
 github.io
 raw.githubusercontent.com
 
-# Cloudflare
+# CLOUDFLARE
 cdn.cloudflare.net
 cdnjs.cloudflare.com
 
-# Dropbox
+# DROPBOX
 dl.dropbox.com
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
 
-# No-IP.com
+# NO-IP.COM
 no-ip.com
 #Bitly URL Shortener
 j.mp
 
-# Jquery
+# JQUERY
 jquery.com
 
-# Jsdelivr.net Open Source CDN
-jsdelivr.net
-
-# Pinterest
-pinterest.com
-
-# Wordpress
+# WORDPRESS
 wp.com
 wordpress.com
 
-# Tinyurl Shortener
+# TINYURL URLSHORTENER
 tinyurl.com
 
-# Wikipedia
+# WIKIPEDIA
 wikipedia.org
 
-# Microsoft
+# MICROSOFT
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
@@ -110,7 +108,7 @@ dl.delivery.mp.microsoft.com
 1drv.com
 aspnetcdn.com
 
-# Apple
+# APPLE
 gdmf.apple.com.akadns.net
 apple.com
 itunes.com
@@ -123,29 +121,29 @@ np-edge-cdn.itunes-apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 play.itunes.apple.com.edgesuite.net
 
-# Lets Encrypt
+# LETS ENCRYPT
 letsencrypt.org
 
-# Spiegel.de
+# SPIEGEL.DE
 sni.cdn.www.spiegel.de.c.footprint.net
 spiegel.de
 
-# ARD German Television
+# ARD TELEVISION (GERMANY)
 image.ard.de
 image-ard-de-cddc.at-o.net
 daserste.de
 
-# German Corona Apps
+# CORONA APPS (GERMANY)
 corona-datenspende.de
 datenspende.und-gesund.de
 svc90.main.px.t-online.de
 
-# Firefox Browser
+# FIREFOX BROWSER
 detectportal.firefox.com
 
-# Reddit
+# REDDIT.COM
 reddit.com
 
-# WhatsApp
+# WHATSAPP
 whatsapp.net
 whatsapp.com
