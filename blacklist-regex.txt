@@ -19,7 +19,10 @@
 ^track(ers?|ing)?[0-9]*[_.-]
 ^(www[0-9]*\.)?xn--]
 
-# COUNTRY BLOCKING  
+# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
+(^|\.)(surf|rest|live|gq|tokyo|ml|cam|tk|beauty|cf)$
+
+# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
 # bd = Bangladesh
 # cc = Cocos (Keeling) Islands
 # ci = Cote D'Ivoire (Ivory Coast)
@@ -41,9 +44,6 @@
 # tk = Tokelau
 # vn = Vietnam
 (^|\.)(bd|cc|ci|cn|hk|ke|in|id|lk|mw|ng|pk|pw|ru|sa|th|tw|tz|tk|vn)$
-
-# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
-(^|\.)(surf|rest|live|gq|tokyo|ml|cam|tk|beauty|cf)$
 
 # Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
 (^|\.)(top|xyz|online|buzz|cyou|website|space|click|bar|space|fun|monster|email|link|host|cam|quest|autos|pics|bond|lol)$
