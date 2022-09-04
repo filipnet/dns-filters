@@ -20,8 +20,14 @@
 ^(www[0-9]*\.)?xn--]
 
 # COUNTRY BLOCKING  
-# ru = Russia cn = China hk = Hong Kong
-(^|\.)(cn|ru|hk)$
+# cn = China 
+# ru = Russia 
+# hk = Hong Kong 
+# tk = Tokelau
+(^|\.)(cn|hk|ru|tk)$
+
+# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
+(^|\.)(surf|rest|live|gq|tokyo|ml|cam|tk|beauty|cf)$
 
 # GOOGLE
 (\.|^)googlesyndication\.com$
