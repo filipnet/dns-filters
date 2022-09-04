@@ -17,7 +17,6 @@
 ^stat(s|istics)?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
 ^track(ers?|ing)?[0-9]*[_.-]
-^(.+[_.-])?telemetry[_.-]
 ^(www[0-9]*\.)?xn--]
 
 # COUNTRY BLOCKING  
