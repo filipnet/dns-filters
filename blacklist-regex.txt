@@ -29,6 +29,9 @@
 # 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
 (^|\.)(surf|rest|live|gq|tokyo|ml|cam|tk|beauty|cf)$
 
+# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
+(^|\.)(top|xyz|online|buzz|cyou|website|space|click|bar|space|fun|monster|email|link|host|cam|quest|autos|pics|bond|lol)$
+
 # GOOGLE
 (\.|^)googlesyndication\.com$
 (\.|^)googletagmanager\.com$
