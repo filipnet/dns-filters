@@ -23,6 +23,9 @@ video-stats.l.google.com
 geo3.ggpht.com
 yt3.ggpht.com
 
+# GOOGLEADSERVICES (used by sponsored search results, Google Shopping)
+www.googleadservices.com
+
 # YOUTUBE
 s.youtube.com
 s2.youtube.com
@@ -150,3 +153,17 @@ whatsapp.com
 
 # HEISE.DE (GERMANY)
 heise.de
+
+# AKAMAI CDN (used by Origin, Adobe etc.)
+akamaihd.net
+akamaized.net
+akadns.net
+edgekey.net
+
+# SOURCEFORGE (used for Download)
+quantcast.mgr.consensu.org
+static.quantcast.mgr.consensu.org
+vendorlist.consensu.org
+
+# BILD.DE
+asadcdn.com
