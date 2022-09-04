@@ -167,3 +167,8 @@ vendorlist.consensu.org
 
 # BILD.DE
 asadcdn.com
+
+# CONNECTIVITY CHECK
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+www.msftconnecttest.com
