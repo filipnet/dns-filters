@@ -4,46 +4,55 @@
 # https://t3n.de/news/top-level-domains-spam-malware-1087380/
 # https://www.heise.de/newsticker/meldung/Gefaehrliche-neue-Top-Level-Domains-2806867.html
 # https://www.siteway.de/journal/neue-domainendungen/#:~:text=TOP%20TEN%20DER,.link
+# https://security-soup.net/good-domains-for-bad-guys-the-riskiest-tlds-for-malware-and-phishing/
 
 # CYBERCRIME TLD
 
 # ABC
-(^|\.)(autos|asia|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
+(^|\.)(accountants|autos|asia|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
 # DEF
-(^|\.)(download|email|fun|space)$
+(^|\.)(date|download|email|fun|space)$
 # GHI
 (^|\.)(gdn|gq|host)$
 # JKL
-(^|\.)(kim|link|live|loan|lol)$
+(^|\.)(jetzt|kim|link|live|loan|lol)$
 # MNO
-(^|\.)(men|monster|online|ooo)$
+(^|\.)(men|mon|monster|online|ooo)$
 # PQR
-(^|\.)(party|pics|quest)$
+(^|\.)(party|pics|quest|racing|ren|review)$
 # STU
-(^|\.)(rest|space|stream|surf|tokyo|top)$
+(^|\.)(rest|space|stream|surf|trade|tokyo|top)$
 # VWXYZ
-(^|\.)(website|work|world|xxx|xyz|yokohama|zip)$
+(^|\.)(vip|wang|website|win|work|world|xin|xxx|xyz|yokohama|zip)$
 
 # CYBERCRIME COUNTRY TLD
 
 # bd = Bangladesh
+# br = Brazil
+# ca = Canada
 # cc = Cocos (Keeling) Islands
+# cf = Central Afrika
 # ci = Cote D'Ivoire (Ivory Coast)
-# cn = China 
+# ga = Gabon
+# cn = China
 # hk = Hong Kong
 # in = India
 # id = Indonesia
+# it = Italy
 # ke = Kenya
 # lk = Sri Lanka
 # mw = Malawi
+# ml = Mali
 # ng = Nigeria
 # pk = Pakistan
+# pl = Poland
 # pw = Palau
 # ru = Russia
 # sa = Saudi Arabia
 # th = Thailand
+# tk = Tokalao
 # tw = Taiwan
 # tz = Tanzania
 # tk = Tokelau
 # vn = Vietnam
-(^|\.)(bd|cc|ci|cn|hk|ke|in|id|lk|mw|ng|pk|pw|ru|sa|th|tw|tz|tk|vn)$
+(^|\.)(bd|br|ca|cc|cf|ci|cn|ga|hk|ke|in|id|it|lk|mw|ml|ng|pk|pl|pw|ru|sa|th|tw|tk|tz|tk|vn)$
