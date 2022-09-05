@@ -3,6 +3,7 @@
 # Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
 # https://t3n.de/news/top-level-domains-spam-malware-1087380/
 # https://www.heise.de/newsticker/meldung/Gefaehrliche-neue-Top-Level-Domains-2806867.html
+# https://www.siteway.de/journal/neue-domainendungen/#:~:text=TOP%20TEN%20DER,.link
 
 # CYBERCRIME TLD
 
@@ -11,7 +12,7 @@
 # DEF
 (^|\.)(email|fun|space)$
 # GHI
-(^|\.)(host)$
+(^|\.)(gq|host)$
 # JKL
 (^|\.)(kim|link|live|loan|lol)$
 # MNO
