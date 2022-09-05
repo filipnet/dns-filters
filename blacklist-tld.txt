@@ -1,25 +1,27 @@
 # REFERENCES
 # 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
 # Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
+# https://t3n.de/news/top-level-domains-spam-malware-1087380/
+# https://www.heise.de/newsticker/meldung/Gefaehrliche-neue-Top-Level-Domains-2806867.html
 
 # CYBERCRIME TLD
 
 # ABC
-(^|\.)(autos|bar|beauty|bond|buzz|cam|click|cyou)$
+(^|\.)(autos|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
 # DEF
 (^|\.)(email|fun|space)$
 # GHI
 (^|\.)(host)$
 # JKL
-(^|\.)(link|live|lol)$
+(^|\.)(kim|link|live|loan|lol)$
 # MNO
-(^|\.)(monster|online)$
+(^|\.)(men|monster|online)$
 # PQR
-(^|\.)(pics|quest)$
+(^|\.)(party|pics|quest)$
 # STU
 (^|\.)(rest|space|surf|tokyo|top)$
 # VWXYZ
-(^|\.)(website|xyz)$
+(^|\.)(website|work|xyz|zip)$
 
 # CYBERCRIME COUNTRY TLD
 
