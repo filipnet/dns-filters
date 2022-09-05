@@ -9,7 +9,7 @@
 # CYBERCRIME TLD
 
 # ABC
-(^|\.)(accountants|autos|asia|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
+(^|\.)(accountants|autos|asia|bar|beauty|bond|buzz|cam|click|club|country|cricket|cyou)$
 # DEF
 (^|\.)(date|download|email|fun|space)$
 # GHI
@@ -19,9 +19,9 @@
 # MNO
 (^|\.)(men|mon|monster|online|ooo)$
 # PQR
-(^|\.)(party|pics|quest|racing|ren|review)$
+(^|\.)(party|pics|quest|racing|ren|rest|review)$
 # STU
-(^|\.)(rest|science|space|stream|surf|trade|tokyo|top)$
+(^|\.)(site|science|space|stream|surf|trade|tokyo|top)$
 # VWXYZ
 (^|\.)(vip|wang|website|win|work|world|xin|xxx|xyz|yokohama|zip)$
 
