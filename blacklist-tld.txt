@@ -22,7 +22,7 @@
 # STU
 (^|\.)(rest|space|surf|tokyo|top)$
 # VWXYZ
-(^|\.)(website|work|xyz|zip)$
+(^|\.)(website|work|xxx|xyz|zip)$
 
 # CYBERCRIME COUNTRY TLD
 
