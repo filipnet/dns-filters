@@ -8,21 +8,21 @@
 # CYBERCRIME TLD
 
 # ABC
-(^|\.)(autos|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
+(^|\.)(autos|asia|bar|beauty|bond|buzz|cam|click|country|cricket|cyou)$
 # DEF
-(^|\.)(email|fun|space)$
+(^|\.)(download|email|fun|space)$
 # GHI
-(^|\.)(gq|host)$
+(^|\.)(gdn|gq|host)$
 # JKL
 (^|\.)(kim|link|live|loan|lol)$
 # MNO
-(^|\.)(men|monster|online)$
+(^|\.)(men|monster|online|ooo)$
 # PQR
 (^|\.)(party|pics|quest)$
 # STU
-(^|\.)(rest|space|surf|tokyo|top)$
+(^|\.)(rest|space|stream|surf|tokyo|top)$
 # VWXYZ
-(^|\.)(website|work|xxx|xyz|zip)$
+(^|\.)(website|work|world|xxx|xyz|yokohama|zip)$
 
 # CYBERCRIME COUNTRY TLD
 
