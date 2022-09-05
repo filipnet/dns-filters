@@ -1,1 +1,46 @@
+# REFERENCES
+# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
+# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
 
+# CYBERCRIME TLD
+
+# ABC
+(^|\.)(autos|bar|beauty|bond|buzz|cam|click|cyou)$
+# DEF
+(^|\.)(email|fun|space)$
+# GHI
+(^|\.)(host)$
+# JKL
+(^|\.)(link|live|lol)$
+# MNO
+(^|\.)(monster|online)$
+# PQR
+(^|\.)(pics|quest)$
+# STU
+(^|\.)(rest|space|surf|tokyo|top)$
+# VWXYZ
+(^|\.)(website|xyz)$
+
+# CYBERCRIME COUNTRY TLD
+
+# bd = Bangladesh
+# cc = Cocos (Keeling) Islands
+# ci = Cote D'Ivoire (Ivory Coast)
+# cn = China 
+# hk = Hong Kong
+# in = India
+# id = Indonesia
+# ke = Kenya
+# lk = Sri Lanka
+# mw = Malawi
+# ng = Nigeria
+# pk = Pakistan
+# pw = Palau
+# ru = Russia
+# sa = Saudi Arabia
+# th = Thailand
+# tw = Taiwan
+# tz = Tanzania
+# tk = Tokelau
+# vn = Vietnam
+(^|\.)(bd|cc|ci|cn|hk|ke|in|id|lk|mw|ng|pk|pw|ru|sa|th|tw|tz|tk|vn)$
