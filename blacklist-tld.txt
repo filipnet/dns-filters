@@ -21,7 +21,7 @@
 # PQR
 (^|\.)(party|pics|quest|racing|ren|review)$
 # STU
-(^|\.)(rest|space|stream|surf|trade|tokyo|top)$
+(^|\.)(rest|science|space|stream|surf|trade|tokyo|top)$
 # VWXYZ
 (^|\.)(vip|wang|website|win|work|world|xin|xxx|xyz|yokohama|zip)$
 
