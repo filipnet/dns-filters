@@ -19,41 +19,12 @@
 ^track(ers?|ing)?[0-9]*[_.-]
 ^(www[0-9]*\.)?xn--]
 
-# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
-(^|\.)(surf|rest|live|gq|tokyo|ml|cam|tk|beauty|cf)$
-
-# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
-# bd = Bangladesh
-# cc = Cocos (Keeling) Islands
-# ci = Cote D'Ivoire (Ivory Coast)
-# cn = China 
-# hk = Hong Kong
-# in = India
-# id = Indonesia
-# ke = Kenya
-# lk = Sri Lanka
-# mw = Malawi
-# ng = Nigeria
-# pk = Pakistan
-# pw = Palau
-# ru = Russia
-# sa = Saudi Arabia
-# th = Thailand
-# tw = Taiwan
-# tz = Tanzania
-# tk = Tokelau
-# vn = Vietnam
-(^|\.)(bd|cc|ci|cn|hk|ke|in|id|lk|mw|ng|pk|pw|ru|sa|th|tw|tz|tk|vn)$
-
-# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
-(^|\.)(top|xyz|online|buzz|cyou|website|space|click|bar|space|fun|monster|email|link|host|cam|quest|autos|pics|bond|lol)$
-
 # GOOGLE
 (\.|^)googlesyndication\.com$
 (\.|^)googletagmanager\.com$
 (\.|^)safeframe\.googlesyndication\.com$
 (\.|^)google-analytics\.com$
 
-# YOUTUBE
+# YOUTUBE ADVERTISEMENT
 ^r[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
 ^rr[0-9]-*sn-[a-z0-9]*-[0-9a-z]{4}\.googlevideo\.com
