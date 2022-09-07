@@ -1,29 +1,58 @@
 # REFERENCES
-# 10 Most Abused Top Level Domains (https://www.spamhaus.org/statistics/tlds/)
-# Netcraft Cybercrime on Top Level Domains (https://trends.netcraft.com/cybercrime/tlds)
-# https://t3n.de/news/top-level-domains-spam-malware-1087380/
-# https://www.heise.de/newsticker/meldung/Gefaehrliche-neue-Top-Level-Domains-2806867.html
-# https://www.siteway.de/journal/neue-domainendungen/#:~:text=TOP%20TEN%20DER,.link
-# https://security-soup.net/good-domains-for-bad-guys-the-riskiest-tlds-for-malware-and-phishing/
+# StopBadware, APWG, Spamhaus, SDF, SURBL ph/mw/ws/jp, CleanMX ph/mw/pt
 
-# CYBERCRIME TLD
-
-# ABC
-(^|\.)(accountants|autos|asia|bar|beauty|bond|buzz|cam|click|club|country|cricket|cyou)$
-# DEF
-(^|\.)(date|download|email|fun|space)$
-# GHI
-(^|\.)(gdn|gq|host)$
-# JKL
-(^|\.)(jetzt|kim|link|live|loan|lol)$
-# MNO
-(^|\.)(men|mon|monster|online|ooo)$
-# PQR
-(^|\.)(party|pics|quest|racing|ren|rest|review)$
-# STU
-(^|\.)(site|science|space|stream|surf|trade|tokyo|top)$
-# VWXYZ
-(^|\.)(vip|wang|website|win|work|world|xin|xxx|xyz|yokohama|zip)$
+# A
+(^|\.)(accountant|autos|asia)$
+# B
+(^|\.)(bar|beauty|bond|buzz)$
+# C
+(^|\.)(cab|cam|click|club|country|cricket|cyou)$
+# D
+(^|\.)(date|download)$
+# E
+(^|\.)()$
+# F
+(^|\.)(fun)$
+# G
+(^|\.)(gdn|gq)$
+# H
+(^|\.)(host)$
+# I
+(^|\.)()$
+# J
+(^|\.)(jetzt|juegos)$
+# K
+(^|\.)(kim)$
+# L
+(^|\.)(link|live|limited|loan|lol)$
+# M
+(^|\.)(men|moe|mon|monster)$
+# N
+(^|\.)()$
+# O
+(^|\.)(online|ooo)$
+# P
+(^|\.)(party|pics)$
+# Q
+(^|\.)()$
+# R
+(^|\.)(racing|ren|rest)$
+# S
+(^|\.)(site|science|space|stream|surf|support|services|sarl)$
+# T
+(^|\.)(tatar|tatoo|trade|tokyo|top|toys)$
+# U
+(^|\.)()$
+# V
+(^|\.)(vip)$
+# W
+(^|\.)(wang|website|win|work|world)$
+# X
+(^|\.)(xin|xxx|xyz)$
+# Y
+(^|\.)(yokohama)$
+# Z
+(^|\.)(zip)$
 
 # CYBERCRIME COUNTRY TLD
 
