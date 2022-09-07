@@ -4,49 +4,46 @@
 # A
 (^|\.)(accountant|autos|asia)$
 # B
-(^|\.)(bar|beauty|bond|buzz)$
+(^|\.)(bar|beauty|bid|bond|buzz)$
 # C
-(^|\.)(cab|cam|click|club|country|cricket|cyou)$
+(^|\.)(cab|cam|casino|center|cheap|click|claims|club|country|cricket|creditcard|computer|cyou)$
 # D
-(^|\.)(date|download)$
+(^|\.)(date|dentist|download)$
 # E
-(^|\.)()$
 # F
-(^|\.)(fun)$
+(^|\.)(faith|football|fun|furniture)$
 # G
-(^|\.)(gdn|gq)$
+(^|\.)(gdn|gratis|gq)$
 # H
-(^|\.)(host)$
+(^|\.)(host|how)$
 # I
-(^|\.)()$
 # J
 (^|\.)(jetzt|juegos)$
 # K
 (^|\.)(kim)$
 # L
-(^|\.)(link|live|limited|loan|lol)$
+(^|\.)(lat|lease|link|live|limited|loan|lol)$
 # M
 (^|\.)(men|moe|mon|monster)$
 # N
-(^|\.)()$
+(^|\.)(lgbt)$
 # O
 (^|\.)(online|ooo)$
 # P
-(^|\.)(party|pics)$
+(^|\.)(party|pics|poker|press)$
 # Q
-(^|\.)()$
+(^|\.)(qpon)$
 # R
-(^|\.)(racing|ren|rest)$
+(^|\.)(racing|ren|report|rest|rip)$
 # S
-(^|\.)(site|science|space|stream|surf|support|services|sarl)$
+(^|\.)(sarl|site|science|space|stream|surf|support|services|study)$
 # T
-(^|\.)(tatar|tatoo|trade|tokyo|top|toys)$
+(^|\.)(tatar|tatoo|tax|taxi|tech|trade|tokyo|top|toys)$
 # U
-(^|\.)()$
 # V
 (^|\.)(vip)$
 # W
-(^|\.)(wang|website|win|work|world)$
+(^|\.)(wang|webcam|website|win|work|world)$
 # X
 (^|\.)(xin|xxx|xyz)$
 # Y
