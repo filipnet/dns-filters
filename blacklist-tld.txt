@@ -34,7 +34,7 @@
 # Q
 (^|\.)(qpon)$
 # R
-(^|\.)(racing|ren|report|rest|rip)$
+(^|\.)(racing|ren|report|rest|rip|rodeo)$
 # S
 (^|\.)(sarl|site|science|space|stream|surf|support|services|study)$
 # T
