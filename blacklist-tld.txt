@@ -22,11 +22,10 @@
 # K
 (^|\.)(kim)$
 # L
-(^|\.)(lat|lease|link|live|limited|loan|lol)$
+(^|\.)(lat|lease|lgbt|link|live|limited|loan|lol)$
 # M
 (^|\.)(men|moe|mon|monster)$
 # N
-(^|\.)(lgbt)$
 # O
 (^|\.)(online|ooo)$
 # P
@@ -59,11 +58,11 @@
 # cc = Cocos (Keeling) Islands
 # cf = Central Afrika
 # ci = Cote D'Ivoire (Ivory Coast)
-# ga = Gabon
 # cn = China
+# ga = Gabon
 # hk = Hong Kong
-# in = India
 # id = Indonesia
+# in = India
 # it = Italy
 # ke = Kenya
 # lk = Sri Lanka
