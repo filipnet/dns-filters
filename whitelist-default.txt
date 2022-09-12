@@ -23,6 +23,25 @@ video-stats.l.google.com
 geo3.ggpht.com
 yt3.ggpht.com
 
+# GOOGLE PLAY
+android.clients.google.com
+
+# GOOGLE KEEP
+reminders-pa.googleapis.com
+firestore.googleapis.com
+
+# GOOGLE GMAIL
+googleapis.l.google.com
+
+# GOOGLE FONTS
+gstaticadssl.l.google.com
+
+# GOOGLE ANDROID TV
+Android TV
+
+# GOOGLE CHROME
+dl.google.com
+
 # GOOGLEADSERVICES (used by sponsored search results, Google Shopping)
 www.googleadservices.com
 
@@ -34,6 +53,7 @@ youtube-nocookie.com
 i.ytimg.com
 i1.ytimg.com
 s.ytimg.com
+video-stats.l.google.com
 
 # GITHUB
 github.com
@@ -110,6 +130,36 @@ displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 1drv.com
 aspnetcdn.com
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+
+# MICROSOFT WINDOWS 10 UPDATE
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+
+# MICROSOFT EDGE BROWSER UPDATE
+msedge.api.cdp.microsoft.com
+
+# MICROSOFT SKYPE
+gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s{1..5}.symcb.com 
+
+# MICROSOFT OFFICE
+officeclient.microsoft.com
+
+# MICROSOFT BING MAPS PLATFORM
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
 
 # APPLE
 gdmf.apple.com.akadns.net
@@ -123,6 +173,58 @@ uts-api-cdn.itunes-apple.com.akadns.net
 np-edge-cdn.itunes-apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 play.itunes.apple.com.edgesuite.net
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+
+# APPLE MUSIC
+itunes.apple.com
+s.mzstatic.com
+
+# APPLE ID
+appleid.apple.com
+
+# APPLE WEATHER APP
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+
+# ANDROID CHROME
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com 
+
+# CANON PRINTERS
+gdlp01.c-wss.com
+
+# REDDIT
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+[a-z]\.thumbs\.redditmedia\.com
+(\.|^)redd\.it$
+(\.|^)reddit\.com$
+
+# DPD PACKAGES TRACKING
+tracking.dpd.de
+
+# MOZILLA FIREFOX TRACKING PROTECTION
+tracking-protection.cdn.mozilla.net
+
+# SPOTIFY
+api-tv.spotify.com
+
+# ORIGIN SAVEGAME SYNC
+cloudsync-prod.s3.amazonaws.com
+
+# WEATHER.COM
+v.w-x.co
+
+# NVIDIA GEFORCE EXPERIENCE
+gfwsl.geforce.com
 
 # LETS ENCRYPT
 letsencrypt.org
@@ -150,6 +252,35 @@ reddit.com
 # WHATSAPP
 whatsapp.net
 whatsapp.com
+wa.me
+www.wa.me
+^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9]\.fbcdn\.net$
+^((www|(w[0-9]\.)?web|media((-[a-z]{3}|\.[a-z]{4})[0-9]{1,2}-[0-9](\.|-)(cdn|fna))?)\.)?whatsapp\.(com|net)$
+
+# SIGNAL
+ud-chat.signal.org
+chat.signal.org
+storage.signal.org
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+d83eunklitikj.cloudfront.net
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
+
+# TWITTER
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
+(\.|^)twimg\.com$
 
 # HEISE.DE (GERMANY)
 heise.de
@@ -172,6 +303,7 @@ asadcdn.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
+www.msftncsi.com
 
 # TEST VIRUS
 eicar.org
