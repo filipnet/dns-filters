@@ -283,8 +283,8 @@ mobile.twitter.com
 (\.|^)twimg\.com$
 
 # TELEGRAM
-telegram.com
-api.telegram.com
+telegram.org
+api.telegram.org
 
 # HEISE.DE (GERMANY)
 heise.de
