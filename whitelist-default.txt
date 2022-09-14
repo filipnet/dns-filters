@@ -55,6 +55,10 @@ i1.ytimg.com
 s.ytimg.com
 video-stats.l.google.com
 
+# AMAZON
+amazon.de
+amazon.com
+
 # GITHUB
 github.com
 github.io
