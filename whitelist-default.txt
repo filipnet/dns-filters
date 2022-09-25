@@ -3,6 +3,8 @@ tel.t-online.de
 _sip._tcp.tel.t-online.de
 _sip._udp.tel.t-online.de
 edns.t-ipnet.de
+t-ipnet.de
+t-online.de
 
 # GOOGLE
 0.client-channel.google.com
