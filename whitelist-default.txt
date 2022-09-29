@@ -81,6 +81,75 @@ no-ip.com
 #Bitly URL Shortener
 j.mp
 
+# AMAZON AWS
+*.awstrack.me
+aws.amazon.com
+bbuseruploads.s3.amazonaws.com
+kinesis.*.amazonaws.com
+s3-*.amazonaws.com
+s3.*.amazonaws.com
+s3.amazonaws.com
+
+# CERTIFICATE AUTHORITIES
+*.digicert.com
+*.entrust.net
+*.geotrust.com
+*.lencr.org
+*.verisign.net
+
+# GITHUB
+*.ghcr.io
+*.github.com
+*.github.map.fastly.net
+*.githubapp.com
+*.githubassets.com
+*.githubusercontent.com
+github.io
+gitlab.com
+
+# GAMING
+*.epicgames.com
+# Used by EA Desktop. Symptom: Missing download button
+*.split.io
+# Used by Origin for content delivery
+cdn.optimizely.com
+
+# NVIDIA
+activation.gfe.nvidia.com
+events.gfe.nvidia.com
+gfwsl.geforce.com
+images.nvidiagrid.net
+services.gfe.nvidia.com
+
+# PAYPAL
+*.paypal-dynamic-*.map.fastly.net
+*.paypal.ca
+*.paypal.co.uk
+*.paypal.com
+*.paypal.map.fastly.net
+*.paypalobjects.com
+
+# STEAM
+*.s.team
+*.steam-chat.com
+*.steambroadcast.akamaized.net
+*.steamcdn-a.akamaihd.net
+*.steamchina.com
+*.steamcommunity-a.akamaihd.net
+*.steamcommunity.com
+*.steamcontent.com
+*.steamgames.com
+*.steampowered.com
+*.steampowered.com.8686c.com
+*.steamstatic.com
+*.steamstatic.com.8686c.com
+*.steamstore-a.akamaihd.net
+*.steamusercontent-a.akamaihd.net
+*.steamusercontent.com
+*.steamuserimages-a.akamaihd.net
+*.steamvideo-a.akamaihd.net
+*.valvesoftware.com
+
 # JQUERY
 jquery.com
 
