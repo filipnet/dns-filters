@@ -6,6 +6,9 @@ edns.t-ipnet.de
 t-ipnet.de
 t-online.de
 
+# KLICKTEL
+api.klicktel.de
+
 # GOOGLE
 0.client-channel.google.com
 2.android.pool.ntp.org
