@@ -5,6 +5,13 @@ _sip._udp.tel.t-online.de
 edns.t-ipnet.de
 t-ipnet.de
 t-online.de
+h2-epp-100.edns.t-ipnet.de
+ffm021-l01-mav-pc-rt-001.edns.t-ipnet.de
+d-epp-100.edns.t-ipnet.de
+
+# GIGASET
+api.klicktel.de
+info.gigaset.net
 
 # KLICKTEL
 api.klicktel.de
