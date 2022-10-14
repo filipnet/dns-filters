@@ -110,12 +110,20 @@ s3.amazonaws.com
 github.io
 gitlab.com
 
-# GAMING
+# EPICGAMES
 *.epicgames.com
+
+#EA
 # Used by EA Desktop. Symptom: Missing download button
 *.split.io
-# Used by Origin for content delivery
+
+# ORIGIN 
+# Used by Origin, Savegames and for content delivery
 cdn.optimizely.com
+ea.com
+heartbeat.dm.origin.com
+proxy.novafusion.ea.com
+cloudsync-prod.s3.amazonaws.com
 
 # NVIDIA
 activation.gfe.nvidia.com
