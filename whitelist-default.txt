@@ -227,6 +227,15 @@ msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
 
+# MICROSOFT ONEDRIVE (BLOCKED BY hBlock AdBlock)
+g.live.com
+
+# MiCROSOFT MAIL
+live.com
+outlook.com
+smtp-mail.outlook.com
+pod5105.outlook.com
+
 # MICROSOFT WINDOWS 10 UPDATE
 sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
