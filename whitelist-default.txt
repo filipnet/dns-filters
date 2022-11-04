@@ -414,3 +414,11 @@ www.msftncsi.com
 
 # TEST VIRUS
 eicar.org
+
+# FRONIUS
+fronius-se-iot.azure-devices.net
+fronius-se-iot-telemetry.azure-devices.net
+sera-gen24.fronius.com
+froniusseiot.blob.core.windows.net
+provisioning.solarweb.com
+cure-se.fronius.com
