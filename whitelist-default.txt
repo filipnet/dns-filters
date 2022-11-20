@@ -71,6 +71,19 @@ video-stats.l.google.com
 amazon.de
 amazon.com
 
+# AMAZON FIRETV STICK
+aax-eu.amazon-adsystem.com
+ad.71i.de
+de.ioam.de
+hbbtv-track.redbutton.de
+script.ioam.de
+imasdk.googleapis.com
+79423.analytics.edgesuite.net
+api.amazonalexa.com 
+dcape-na.amazon.com 
+arcus-uswest.amazon.com
+msh.amazon.com
+
 # GITHUB
 github.com
 github.io
