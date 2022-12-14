@@ -16,6 +16,9 @@ info.gigaset.net
 # KLICKTEL
 api.klicktel.de
 
+# T3N DIGITAL PIONEERS
+t3n.de
+
 # GOOGLE
 0.client-channel.google.com
 2.android.pool.ntp.org
