@@ -441,3 +441,6 @@ sera-gen24.fronius.com
 froniusseiot.blob.core.windows.net
 provisioning.solarweb.com
 cure-se.fronius.com
+
+# STIFTUNG WARENTEST (override hBlock Hosts)
+test.de
