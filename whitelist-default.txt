@@ -444,3 +444,6 @@ cure-se.fronius.com
 
 # STIFTUNG WARENTEST (override hBlock Hosts)
 test.de
+
+# ZDF (Zweites Deutsches Fernsehen)
+tracksrv.zdf.de
