@@ -450,3 +450,4 @@ tracksrv.zdf.de
 
 # GOOGLE AND BING ADVERTISEMENTS
 dartsearch.net
+ad.doubleclick.net
