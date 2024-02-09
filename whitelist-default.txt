@@ -447,3 +447,6 @@ test.de
 
 # ZDF (Zweites Deutsches Fernsehen)
 tracksrv.zdf.de
+
+# GOOGLE AND BING ADVERTISEMENTS
+dartsearch.net
