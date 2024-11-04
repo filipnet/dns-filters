@@ -246,6 +246,12 @@ msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
 
+# MICROSOFT INTUNES
+manage.microsoft.com
+login.microsoftonline.com
+graph.windows.net
+graph.microsoft.com
+
 # MICROSOFT ONEDRIVE (BLOCKED BY hBlock AdBlock)
 g.live.com
 
