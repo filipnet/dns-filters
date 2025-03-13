@@ -288,6 +288,17 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 
+# MICROSOFT TEAMS
+teams.microsoft.com
+skype.com
+microsoftonline.com
+office365.com
+cdn.teams.microsoft.com
+relay.teams.microsoft.com
+media.teams.microsoft.com
+streaming.media.azure.net
+akamaized.net
+
 # APPLE
 gdmf.apple.com.akadns.net
 apple.com
