@@ -151,6 +151,13 @@ heartbeat.dm.origin.com
 proxy.novafusion.ea.com
 cloudsync-prod.s3.amazonaws.com
 
+# Farm Simulator 22 (FS22)
+*.giants-software.com
+matchmaking.fs22.giants-software.com
+backend.giants-software.com
+nexus-mods.com
+voice-servers.giants-software.com
+
 # NVIDIA
 activation.gfe.nvidia.com
 events.gfe.nvidia.com
