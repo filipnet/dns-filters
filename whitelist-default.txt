@@ -24,6 +24,8 @@ allgemeine-zeitung.de
 
 # BOOKING
 booking.com
+asanalytics.booking.com  
+web-vitals.booking.com
 fewo-direkt.de
 airbnb.com
 vrbo.com
