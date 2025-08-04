@@ -22,6 +22,50 @@ t3n.de
 # ALLGEMEINE ZEITUNG MAINZ
 allgemeine-zeitung.de
 
+# BOOKING
+booking.com
+fewo-direkt.de
+airbnb.com
+vrbo.com
+expedia.de
+expedia.com
+holidaycheck.de
+trivago.de
+trivago.com
+hometogo.de
+hometogo.com
+reise.de
+lastminute.de
+weg.de
+
+# AIRLINES
+lufthansa.com
+eurowings.com
+ryanair.com
+easyjet.com
+condor.com
+tuifly.com
+airfrance.de
+airfrance.com
+klm.com
+austrian.com
+swiss.com
+emirates.com
+qatarairways.com
+etihad.com
+singaporeair.com
+delta.com
+united.com
+americanairlines.com
+britishairways.com
+wizzair.com
+norwegian.com
+turkishairlines.com
+pegasusairlines.com
+airbaltic.com
+finnair.com
+icelandair.com
+
 # GOOGLE
 0.client-channel.google.com
 2.android.pool.ntp.org
